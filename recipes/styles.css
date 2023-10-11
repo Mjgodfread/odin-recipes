@@ -1,0 +1,57 @@
+/*style.css*/
+body {
+    width: 500;
+    margin: 0 auto;
+    background-color: grey;
+}
+.text {
+    background-color: yellowgreen;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border: 20px;
+    border-style: outset;
+    border-color: orangered;
+} 
+
+#text-header {
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: yellow;
+    font-weight: bolder;
+    text-align: center;
+    border: 20px;
+    border-top-color: red;
+    border-bottom-color: green;
+    border-style: solid;
+}
+#text-fun {
+    font-size: larger;
+    text-align: center;
+    background-color: orangered;
+    border: 10px;
+    border-style: inset;
+    border-color: yellowgreen;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+img {
+    height: auto;
+    width: 700px;
+    margin: auto;
+    display: block;
+    border: 10px;
+    border-color: black;
+    border-style: groove;
+}
+ul {
+    background-color: antiquewhite;
+    border: 10px;
+    border-style: ridge;
+    padding: auto;
+}
+ol {
+    background-color: antiquewhite;
+    border: 10px;
+    border-style: ridge;
+    padding: auto;
+}
